@@ -1,11 +1,10 @@
 # cmc
-These are the official assets of ChampionsMC, for easy sharing.
+These are the official *assets of ChampionsMC, for easy sharing.
+*Assets that are public
 
 ChampionsMC socials:
 https://championsmc.carrd.co/
-
-*Main comunication: Discord
-
+Main comunication: Discord
 discord.gg/championsmc
 
 Note: Rule #18
